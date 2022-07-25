@@ -14,13 +14,7 @@ public class Practise
 		System.out.println("Test is Passed");
 		System.out.println("Test is Passed");
 		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
+		
 	}
 
 }
